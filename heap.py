@@ -1,3 +1,5 @@
+# This should probably be a Gist, but, oh well :)
+
 def heapPermutation(a, size):
     if size == 1:
         print(a)
